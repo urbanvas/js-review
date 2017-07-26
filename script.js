@@ -1,4 +1,61 @@
-// Create a variable `unicorn` and assign it to a string "STAR"
+
+//Variables
+// 1. Create a variable "firstName" and "lastName", assign it to a string that is stores your first and last name.
+// 2. Create a variable "age" and assign it to your age
+
+
+
+//String Concatenation
+// 1. Create a variable called "fullName" that stores your "lastName" and "firstName"
+// 2. console.log() your fullName
+
+
+
+//Expressions & Operators
+// 1. create two variables called "num1", "num2", and "numberResult"
+// 2. Run the following operators "+", "-", "*", "%", "/",and store them in numberResult
+
+
+
+//Linking JavaScript to HTML File
+// Write the HTML tag to link the file "script.js" that's located in a folder called JS
+// User JavaScript comments to comment this tag out or else the code below this will not work
+
+
+
+//Operators and Boolean Logic
+
+
+
+//Conditionals
+
+
+
+//Switch and Ternary Operators
+
+
+
+//Arrays
+//Create an array called menu that stores the menu for your website that includes "Home", "Portfolio", "About", "Contact"
+
+//Loops
+
+
+
+//Functions
+//Create a function that takes two parameters which are your first and last name and concatenates them together
+//Create a function that takes two parameters which are numbers and returns them added/concatenated together
+
+
+//Objects
+//Write an Object 
+//Create a Method that turns your fullname to all CAPS!!!
+
+
+//DOM
+//How would you describe the DOM?
+//How do you manipulate the DOM?
+
 
 
 
