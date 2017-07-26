@@ -23,22 +23,28 @@
 
 
 
-//Operators and Boolean Logic
-
-
-
-//Conditionals
-
-
-
-//Switch and Ternary Operators
+//Operators, Boolean Logic, and Conditionals
+//Write an if else statement that prints out "It's true" if two varibles are true, or else print out out "It's False"
+//Write an if else statement that console logs "It's more" if 5 is more than 3, else it console logs "It's less!"
 
 
 
 //Arrays
 //Create an array called menu that stores the menu for your website that includes "Home", "Portfolio", "About", "Contact"
 
+
+
 //Loops
+//Write a for loop that loops through your menu array that you created above and print it out via the console log
+
+
+
+//Switch Statements
+// 1. Write a switch statement called mood with a default state of hungry
+// 2. create a case called happy and console log the messeage "I'm feeling great!"
+// 3. create a case called sad and console log the messeage "I'm feeling sad!"
+// 4. create a case called tired and console log the messeage "I'm feeling sleepy!"
+
 
 
 
@@ -48,7 +54,7 @@
 
 
 //Objects
-//Write an Object 
+//Write an Object called person with the following properties: fullName, age, gender, location  
 //Create a Method that turns your fullname to all CAPS!!!
 
 
@@ -57,68 +63,19 @@
 //How do you manipulate the DOM?
 
 
+//Git and Github
+//1. Create a repo call JS Review
+//2. Push your answers up to your repo
+//3. Share the link in Slack
 
 
-// Declare an array containing all months in a year as strings, and console.log() "June"
+//Bonus - Fizz Buzz
+// Write some code that, depending on the value of x, assigns one of several values to result:
 
-
-
-// Create a for loop that loops through all months in the months array and console.log()s each month
-
-
-
-// Declare a function `currentMonth` that accepts an array as a parameter, loops through the array, and returns "April".
-
-
-
-// Call the `currentMonth` function and pass the array created above (with the months in it) as an argument.
-
-
-
-// Declare an object literal `student` with the following properties: firstName, lastName, schoolName, grade.
-// And methods to: `sayHello`, that would return a string `Hello!`
-
-
-
-// console.log() the first and last names using string interpolation (template literals)
-
-
-
-// invoke the sayHello() method of the student object
-
-
-
-// Declare a JS class `developer` that would accept `name` and `languages`(array) as arguments and assign it to corresponding properties.
-// additionally, every developer should have `coolnessLevel` property that would be initially set to 10.
-// Our `developer` class should have the following methods:
-// `sayName` - would return developer's name
-// `status` - would return all data about our developer.
-// `learnLanguage` - would accept a language as an argument and push it to the array of languages. aaaaand increase `coolnessLevel` by 1.
-
-
-
-// create 2 instances of the `developer` class.
-
-
-// call `sayName` method 
-
-// call `status` method
-
-// call `learnLanguage` method and pass 'javascript' to it.
-
-
-
-/**
- * FOR THIS SECTION YOU CAN USE THE MDN OR W3 SCHOOL DOCUMENTATION ABOUT THE DOM
- */
-
-// create a paragraph element with a class of "vince" and the text content "hello world!". Then, append it to the element of the DOM with id `blue-cat`.
-
-
-
-// Create an array of numbers 1-5
-// Loop through the array, create a new <p> element for each number with the text content of the number, assign it to a variable, and append it to the body of the DOM.
-
-// find a div with id "parrot" and assign it to a variable.
+// If x is evenly divisible by both 3 and 5 (for example, 15 or 30), set result to "fizzbuzz".
+// Otherwise if x is evenly divisible by 3 (for example, 3, 6, or 9), set result to "fizz".
+// Otherwise if x is evenly divisible by 5 (for example, 5 or 10), set result to "buzz".
+// If x is not evenly divisible by either 3 or 5 (for example, 7), set result to x.
+// Don't remember how to determine if something divides evenly? Review the modulus (%) operator.
 
 
